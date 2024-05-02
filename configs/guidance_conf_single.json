@@ -1,0 +1,20 @@
+[
+    {
+        "prompt":"a photo of person",
+        "residual_dict": {
+            "person":"embeddings/petrucci.pt",
+            "guitar":"embeddings/majesty.pt",
+            "shoes":"embeddings/airforce.pt",
+            "anime":"embeddings/goku.pt",
+            "man":"embeddings/slash.pt"
+        },
+        "color_context":{
+            "255,0,0":["person",2.5]
+        },
+        "guidance_steps":0,
+        "guidance_weight":0.08,
+        "weight_negative":-1e8,
+        "layout":"layouts/two_people.png",
+        "subject_list":[["person",4]]
+    }
+]
