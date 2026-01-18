@@ -1,4 +1,4 @@
-# DGM Project: Mult-Subject Personalization in Text-to-Image Diffusion Model
+# Mult-Subject Personalization in Text-to-Image Diffusion Model
 
 <div class="image">
 <p align="center">
@@ -90,4 +90,5 @@ Below is a configuration file for generating multiple personalized subjects.
 ```
 
 The results will be located in `results/guitar_person/a_photo_of_person_and_guitar_on_the_beach`.
+
 
